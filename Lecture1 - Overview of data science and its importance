@@ -1,0 +1,10 @@
+What is data science?
+Analyzing and manipulating data to predict use cases and provide recommendations.
+
+Data Science Vs AI Vs ML-
+
+Data Science: Math, Statistics, Visualization, EDA - core for AI and ML.
+AI: Providing data for systems to make their own decisions, like digital assistants.
+ML: Subset of AI, makes recommendations based on data/past instances, e.g., product/movie recommendations.
+So,from this we come to know that
+AI > ML > DeepLearning
