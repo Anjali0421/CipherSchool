@@ -1,0 +1,66 @@
+Introduction to Version Control--
+
+What is Version Control?
+Enables you to revert to previous versions of a document if new changes cause errors.
+Provides a sophisticated and hassle-free way to manage and manipulate documents.
+
+Why is Version Control Crucial for Software Development?
+Allows individuals to work on their own versions independently, avoiding interference from others.
+
+Git: A Popular Version Control System
+
+What is Git?
+A distributed version control system where every developer has a complete copy of the project history on their local machines.
+Facilitates managing changes independently in respective versions.
+
+Key Features:
+Snapshots,Branches,Local and remote repositories
+
+Basic Git Commands:
+git init,git add,git commit,git status
+
+What is a Repository?
+A storage space or directory for files in a project.
+Local Repository: Stored on an individual's system, where they can commit their changes.
+Remote Repository: Stored on a server, accessible to others.
+
+What are Branches?
+Separate branches allow developers to work on their parts of the project independently from the main branch (master/main).
+Commands: git branch to create a branch, git checkout to switch between branches.
+
+What is Push?
+git push command uploads changes from the local repository to the remote repository.
+Steps: git add -> git commit -> git push
+
+What is a Pull Request?
+A request to merge code from a feature branch into the main branch, allowing for discussion, review, and enhancement.
+
+What is a Merge Request?
+Similar to a pull request, it involves merging changes from a feature branch to the main branch.
+Steps: git push -> Merge (master/main) -> Provide a clear description of changes.
+
+What is Commit?
+Saving changes and taking a snapshot of the project, recording the context of these changes.
+Steps: git add -> git commit
+
+Basic Git Actions Flowchart
+Create Repository -> Clone -> Pull-> Commit -> Push -> Merge
+                                |                       |
+                                Fetch--------------------
+Fetch is used to update local repository with changes from remote without merging.
+
+Using Git for Project Management:
+*Branch Management,Merging and Conflict Resolution,Version Tracking: Commands like git log, git diff, and git blame.
+
+
+What is GitHub?
+A web-based interface using Git, allowing multiple people to make changes to web pages simultaneously.
+
+Key Features:
+*Pull Requests,Forking (copying and modifying repositories),Social networking features for developers
+
+What is GitLab?
+A web-based Git repository providing free open and private repositories, issue tracking, and wikis.
+
+Key Features:
+*Issue Tracking,CI/CD Pipelines,Merge Requests
