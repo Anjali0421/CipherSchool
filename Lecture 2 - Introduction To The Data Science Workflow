@@ -1,0 +1,20 @@
+1) The life cycle of a Data Science project involves several key steps, starting with understanding the problem. This initial phase involves clearly defining the objectives, determining how to measure success,
+and identifying the problem type (e.g., classification or regression).
+
+2) Next is gathering relevant data, which includes collecting data from various sources and ensuring its relevance to the problem while 
+considering the volume, variety, velocity, and veracity of the data.
+
+3) Following data collection is data preparation and exploratory data analysis (EDA). In this stage, the data is cleaned by handling missing values and removing duplicates, 
+and exploratory analysis is performed to gain a deep understanding of the data. Data normalization or scaling may also be necessary at this point.
+
+4)The next step is feature engineering and feature extraction, where new features are created to improve model performance, dimensionality is reduced if the feature space is
+too large, and the most important features are selected for modeling.
+
+5)Finally, model building and deployment involve choosing appropriate algorithms, training the models, validating their performance using cross-validation, and deploying the
+model for real-time use or batch processing.
+
+
+
+
+
+
